@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosFundamentosCsharp\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\ProjetosFundamentosCsharp\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\ProjetosFundamentosCsharp\\Stopwatch\\Stopwatch.csproj",
+      "projectName": "Stopwatch",
+      "projectPath": "C:\\ProjetosFundamentosCsharp\\Stopwatch\\Stopwatch.csproj",
       "packagesPath": "C:\\Users\\juu_t\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosFundamentosCsharp\\Calculator\\obj\\",
+      "outputPath": "C:\\ProjetosFundamentosCsharp\\Stopwatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\juu_t\\AppData\\Roaming\\NuGet\\NuGet.Config"
